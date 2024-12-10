@@ -1,0 +1,230 @@
+[
+    {
+        "item_name": "Stone Chestplate",
+        "profit": 7514999.5,
+        "percentage_profit": 3267.391086956522,
+        "starting_bid": 230000,
+        "estimated_price": 7744999.5,
+        "command": "/viewauction ba8800f5099944c8801ec0b01921fe08",
+        "api_call": "https://sky.coflnet.com/api/item/price/MASTER_SKULL_TIER_4"
+    },
+    {
+        "item_name": "Moogma Leggings",
+        "profit": 7155000.5,
+        "percentage_profit": 1212.7140046000077,
+        "starting_bid": 589999,
+        "estimated_price": 7744999.5,
+        "command": "/viewauction 9574bfc5bddf42d2a99f7ce3f1f5556b",
+        "api_call": "https://sky.coflnet.com/api/item/price/MASTER_SKULL_TIER_4"
+    },
+    {
+        "item_name": "Travel Scroll to the Crimson Isle",
+        "profit": 7144999.5,
+        "percentage_profit": 1190.8332500000001,
+        "starting_bid": 600000,
+        "estimated_price": 7744999.5,
+        "command": "/viewauction 9dec244341af41ce9433547afb004933",
+        "api_call": "https://sky.coflnet.com/api/item/price/MASTER_SKULL_TIER_4"
+    },
+    {
+        "item_name": "Empty Thunder Bottle",
+        "profit": 6967222.5,
+        "percentage_profit": 895.7866457866459,
+        "starting_bid": 777777,
+        "estimated_price": 7744999.5,
+        "command": "/viewauction 930e720242b94c45b8cfbec6406686d1",
+        "api_call": "https://sky.coflnet.com/api/item/price/MASTER_SKULL_TIER_4"
+    },
+    {
+        "item_name": "Aspect of the Dragons",
+        "profit": 5944999.5,
+        "percentage_profit": 330.27774999999997,
+        "starting_bid": 1800000,
+        "estimated_price": 7744999.5,
+        "command": "/viewauction 8eb39ba4500644b599fd792f749cd85a",
+        "api_call": "https://sky.coflnet.com/api/item/price/MASTER_SKULL_TIER_4"
+    },
+    {
+        "item_name": "Ornate Zombie Sword",
+        "profit": 5844999.5,
+        "percentage_profit": 307.6315526315789,
+        "starting_bid": 1900000,
+        "estimated_price": 7744999.5,
+        "command": "/viewauction 5587e8a58f524a19b86b30d4e95b1bca",
+        "api_call": "https://sky.coflnet.com/api/item/price/MASTER_SKULL_TIER_4"
+    },
+    {
+        "item_name": "Pest Repellent MAX",
+        "profit": 24640000.0,
+        "percentage_profit": 6844.444444444444,
+        "starting_bid": 360000,
+        "estimated_price": 25000000.0,
+        "command": "/viewauction 1ffde34b5a734119a93786d59520813b",
+        "api_call": "https://sky.coflnet.com/api/item/price/PEST_REPELLENT_MAX"
+    },
+    {
+        "item_name": "Crystal Boots",
+        "profit": 2999950.0,
+        "percentage_profit": 149.9975,
+        "starting_bid": 2000000,
+        "estimated_price": 4999950.0,
+        "command": "/viewauction 5da937a7d3084fc884355eaaf489deb6",
+        "api_call": "https://sky.coflnet.com/api/item/price/CRYSTAL_BOOTS"
+    },
+    {
+        "item_name": "Blade of the Volcano",
+        "profit": 39885000,
+        "percentage_profit": 34682.608695652176,
+        "starting_bid": 115000,
+        "estimated_price": 40000000,
+        "command": "/viewauction 0684e2c4aa1f4700bd9b7d8290ffc132",
+        "api_call": "https://sky.coflnet.com/api/item/price/DYE_PORTAL"
+    },
+    {
+        "item_name": "Glacite Leggings",
+        "profit": 99876000,
+        "percentage_profit": 416150.0,
+        "starting_bid": 24000,
+        "estimated_price": 99900000,
+        "command": "/viewauction 68cf3f8eced34e75adfae2a2c1037eed",
+        "api_call": "https://sky.coflnet.com/api/item/price/GHAST_CLOAK"
+    },
+    {
+        "item_name": "[Lvl 1] Hound",
+        "profit": 99700000,
+        "percentage_profit": 49850.0,
+        "starting_bid": 200000,
+        "estimated_price": 99900000,
+        "command": "/viewauction 018b77153eaa471db7f197d564bcaf13",
+        "api_call": "https://sky.coflnet.com/api/item/price/GHAST_CLOAK"
+    },
+    {
+        "item_name": "Combat Exp Boost",
+        "profit": 99700000,
+        "percentage_profit": 49850.0,
+        "starting_bid": 200000,
+        "estimated_price": 99900000,
+        "command": "/viewauction 028733f01b3043f987c5e3572558d38e",
+        "api_call": "https://sky.coflnet.com/api/item/price/GHAST_CLOAK"
+    },
+    {
+        "item_name": "Santa Minion Skin",
+        "profit": 3135000,
+        "percentage_profit": 20900.0,
+        "starting_bid": 15000,
+        "estimated_price": 3150000,
+        "command": "/viewauction 48f882911ad044e098f76960c9712959",
+        "api_call": "https://sky.coflnet.com/api/item/price/ATTRIBUTE_SHARD"
+    },
+    {
+        "item_name": "Ghast Cloak",
+        "profit": 97560000,
+        "percentage_profit": 4169.2307692307695,
+        "starting_bid": 2340000,
+        "estimated_price": 99900000,
+        "command": "/viewauction 018f4a75f198485e8def69bc965301d6",
+        "api_call": "https://sky.coflnet.com/api/item/price/GHAST_CLOAK"
+    },
+    {
+        "item_name": "[Lvl 20] Monkey",
+        "profit": 3000000,
+        "percentage_profit": 2000.0,
+        "starting_bid": 150000,
+        "estimated_price": 3150000,
+        "command": "/viewauction e2ac5782c978411db55f18ee520315f7",
+        "api_call": "https://sky.coflnet.com/api/item/price/ATTRIBUTE_SHARD"
+    },
+    {
+        "item_name": "[Lvl 1] Monkey",
+        "profit": 2920001,
+        "percentage_profit": 1269.5711720485742,
+        "starting_bid": 229999,
+        "estimated_price": 3150000,
+        "command": "/viewauction 3a6dfe4b900942c09cd09ce79547b175",
+        "api_call": "https://sky.coflnet.com/api/item/price/ATTRIBUTE_SHARD"
+    },
+    {
+        "item_name": "Haste Artifact",
+        "profit": 2860000,
+        "percentage_profit": 986.2068965517242,
+        "starting_bid": 290000,
+        "estimated_price": 3150000,
+        "command": "/viewauction 4ce2010bb39344bb8699b6554fd4d522",
+        "api_call": "https://sky.coflnet.com/api/item/price/ATTRIBUTE_SHARD"
+    },
+    {
+        "item_name": "[Lvl 1] Guardian",
+        "profit": 4400000,
+        "percentage_profit": 733.3333333333333,
+        "starting_bid": 600000,
+        "estimated_price": 5000000,
+        "command": "/viewauction a139f32b241241059022a680b17e9d02",
+        "api_call": "https://sky.coflnet.com/api/item/price/PET_GUARDIAN"
+    },
+    {
+        "item_name": "Aspect of the End",
+        "profit": 2760000,
+        "percentage_profit": 707.6923076923076,
+        "starting_bid": 390000,
+        "estimated_price": 3150000,
+        "command": "/viewauction ec627dcbd8fd4b22956cd2fa4984bbd7",
+        "api_call": "https://sky.coflnet.com/api/item/price/ATTRIBUTE_SHARD"
+    },
+    {
+        "item_name": "Builder's Wand",
+        "profit": 86700000,
+        "percentage_profit": 656.8181818181819,
+        "starting_bid": 13200000,
+        "estimated_price": 99900000,
+        "command": "/viewauction df4cd75869074fae8d9fc64b00271778",
+        "api_call": "https://sky.coflnet.com/api/item/price/GHAST_CLOAK"
+    },
+    {
+        "item_name": "Crimson Leggings",
+        "profit": 1500001,
+        "percentage_profit": 300.0008000016,
+        "starting_bid": 499999,
+        "estimated_price": 2000000,
+        "command": "/viewauction beffae35307c4732a036a78104957211",
+        "api_call": "https://sky.coflnet.com/api/item/price/CRIMSON_LEGGINGS"
+    },
+    {
+        "item_name": "[Lvl 1] Monkey",
+        "profit": 18960001,
+        "percentage_profit": 7900.033333472223,
+        "starting_bid": 239999,
+        "estimated_price": 19200000,
+        "command": "/viewauction 7d503fc9eaa64e5188f6882cfa9153c6",
+        "api_call": "https://sky.coflnet.com/api/item/price/PET_MONKEY"
+    },
+    {
+        "item_name": "Fishing Exp Boost",
+        "percentage_difference": 980.0000000000001,
+        "starting_bid": 50000,
+        "command": "/viewauction a39c1fbc1eac494cb196bf9d1afda774"
+    },
+    {
+        "item_name": "Pickonimbus 2000",
+        "percentage_difference": 440.00000000000006,
+        "starting_bid": 100000,
+        "command": "/viewauction 1a64c334c8dd44cda9c67127e5e7fc48"
+    },
+    {
+        "item_name": "Mithril Gauntlet",
+        "percentage_difference": 260.00240001600014,
+        "starting_bid": 149999,
+        "command": "/viewauction 620a6a6aa2054b27a11f991bdc494af5"
+    },
+    {
+        "item_name": "Mining Exp Boost",
+        "percentage_difference": 171.356783919598,
+        "starting_bid": 199000,
+        "command": "/viewauction c37e4fa1bc5344fda7369fbc1a61215d"
+    },
+    {
+        "item_name": "Luminous Bracelet",
+        "percentage_difference": 143.24324324324326,
+        "starting_bid": 222000,
+        "command": "/viewauction 3e5c439b32fe48cebdc7bc2831c7ab47"
+    }
+]

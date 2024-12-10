@@ -1,0 +1,10 @@
+{
+    "Potion Affinity Artifact": {
+        "profit": -9300000.0,
+        "percentage_profit": -93.0,
+        "starting_bid": 10000000,
+        "estimated_price": 700000.0,
+        "command": "/viewauction 79233da8d087482490ad23df10e0e0ac",
+        "api_call": "https://sky.coflnet.com/api/item/price/ARTIFACT_POTION_AFFINITY"
+    }
+}
